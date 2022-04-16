@@ -1,2 +1,2 @@
 # tetris-js
-Function Tetris game written in JavaScript.
+Functional Tetris game written in JavaScript.
